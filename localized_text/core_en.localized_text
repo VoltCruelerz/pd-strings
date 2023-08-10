@@ -12725,7 +12725,7 @@
             "PD-D Autocannon"
         ],
         [
-            "weapon_name.defense_point_defense_autocannon",
+            "weapon_name.attack_point_defense_autocannon",
             "PD-A Autocannon"
         ]
     ]
