@@ -9,21 +9,7 @@
 
 ## Installation
 
+**NOTE:** This mod requires [Greed](https://github.com/VoltCruelerz/Greed).
+
 1. Download the latest release from [here](https://github.com/VoltCruelerz/pd-strings/releases)
 2. Extract the zipped contents to `%APPDATA%/Local/sins2/mods/`, so that this file's path is `%APPDATA%/Local/sins2/mods/pd-strings/README.md`
-3. Add/Update `enabled_mods.json`
-    1. If you don't already have one, add an `enabled_mods.json` file to your `mods` directory. It should look like the below:
-    2. If you do already have one, just add in the element to `mod_keys`.
-
-### Example enabled_mods.json
-
-```json
-{
-    "mod_keys": [
-        {
-            "name": "pd-strings",
-            "version": 0
-        }
-    ]
-}
-```
