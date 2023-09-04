@@ -3,10 +3,9 @@
     "author": "Volt Cruelerz",
     "url": "https://github.com/VoltCruelerz/pd-strings",
     "description": "PD guns now fire much faster, yielding the iconic string look of actual point defense guns. This also prevents the silliness of seeming to shoot at dead missiles. Additionally, disambiguates classes of point defense between attack (A) and defense (D)",
-    "version": "1.1.0",
-    "sinsVersion": "1.14.3.0",
-    "greedVersion": "1.4.0",
+    "version": "1.1.1",
+    "sinsVersion": "1.15.1.0",
+    "greedVersion": "1.6.0",
     "dependencies": [],
-    "conflicts": [],
-    "priority": 100
+    "conflicts": []
 }
