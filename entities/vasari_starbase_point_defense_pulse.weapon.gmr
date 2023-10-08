@@ -1,6 +1,7 @@
 {
-    "name": "weapon_name.attack_point_defense_autocannon",
-    "effects": {
+    "name": "weapon_name.defense_point_defense_pulse",
+    "effects":
+    {
         "burst_pattern": [
             0,
             0.05,

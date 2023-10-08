@@ -1,4 +1,6 @@
 {
     "weapon_name.defense_point_defense_autocannon": "PD-D Autocannon",
-    "weapon_name.attack_point_defense_autocannon": "PD-A Autocannon"
+    "weapon_name.attack_point_defense_autocannon": "PD-A Autocannon",
+    "weapon_name.defense_point_defense_pulse": "PD-D Pulse Gun",
+    "weapon_name.attack_point_defense_pulse": "PD-A Pulse Gun"
 }
